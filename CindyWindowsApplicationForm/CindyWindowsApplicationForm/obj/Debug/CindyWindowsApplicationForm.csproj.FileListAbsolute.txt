@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\bin\Debug\CindyWindowsApplicationForm.exe.config
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\bin\Debug\CindyWindowsApplicationForm.exe
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\bin\Debug\CindyWindowsApplicationForm.pdb
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\obj\Debug\CindyWindowsApplicationForm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\obj\Debug\CindyWindowsApplicationForm.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\obj\Debug\CindyWindowsApplicationForm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\obj\Debug\CindyWindowsApplicationForm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\obj\Debug\CindyWindowsApplicationForm.exe
+c:\users\user\documents\visual studio 2012\Projects\CindyWindowsApplicationForm\CindyWindowsApplicationForm\obj\Debug\CindyWindowsApplicationForm.pdb
